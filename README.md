@@ -4,7 +4,7 @@
 
 💻 Eu atualmente estou estudando Back-End / JavaScript 
 
-📚 Gosto muito de estudar Java, estrutura de dados em Java e JavaScript;
+📚 Gosto muito de estudar Java, python e JavaScript;
 
 👩‍💻 Estou procurando minha primeira oportunidade no mercado de trabalho.
 
