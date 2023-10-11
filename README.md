@@ -2,13 +2,15 @@
 
 
 
-💻 Eu atualmente estou estudando Back-End / JavaScript 
+💻 Eu atualmente estou estudando Back-End / JavaScript. 
 
-📚 Gosto muito de estudar Java, python e JavaScript;
+📚 Gosto muito de estudar Java, Python e JavaScript.
 
 👩‍💻 Estou procurando minha primeira oportunidade no mercado de trabalho.
 
-🔎 Sou muito curioso, gosto sempre de aprender algo novo e tenho facilidade em aprender.
+🔎 Sou bastante proativo, lido bem com equipes, gosto de trabalhar em conjunto,  estou sempre aprendendo algo novo e tenho facilidade em aprender.
+
+📚 Atualmente estou cursando Técnico de TI na QI Faculdade & Escola Técnica.
 
 ✒️ No meu tempo livre eu gosto praticar atividades fisicas, aprender coisas novas e me desenvolver mentalmente.
 
