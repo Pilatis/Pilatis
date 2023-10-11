@@ -51,7 +51,7 @@
 <a href="mailto: pilatilucas@gmail.com">
  <img src="https://img.shields.io/badge/-Pilatis-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pilatilucas@gmail.com"/>
 </a>
-<a href="https://www.linkedin.com/in/ritik-rawal-698a18142/">
+<a href="https://www.linkedin.com/in/lucas-pilati-15109b293/">
  <img src="https://img.shields.io/badge/-Pilatis-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-pilati-15109b293/"/>
 
 </p>
