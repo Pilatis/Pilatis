@@ -44,7 +44,6 @@
  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Pilatis&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
 </p> 
 
-##
 <br>
 <h1 align="center">Entre em contato comigo<img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h1>
 
