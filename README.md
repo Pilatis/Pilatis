@@ -2,7 +2,7 @@
 
 
 
-💻 Eu atualmente estou estudando Back-End / JavaScript. 
+💻 Eu atualmente estou estudando React/js. 
 
 📚 Gosto muito de estudar Java, Python e JavaScript.
 
@@ -11,6 +11,8 @@
 🔎 Sou bastante proativo, lido bem com equipes, gosto de trabalhar em conjunto,  estou sempre aprendendo algo novo.
 
 📚 Atualmente estou cursando Técnico de TI na QI Faculdade & Escola Técnica.
+
+💁‍♂️ Sou um bom comunicador, estou sempre dispostos a mudar e me adaptar.
 
 ✒️ No meu tempo livre eu gosto praticar atividades fisicas, aprender coisas novas e me desenvolver mentalmente.
 
