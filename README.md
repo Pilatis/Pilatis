@@ -4,7 +4,7 @@
 
 💻 Eu atualmente estou estudando React/js. 
 
-📚 Gosto muito de estudar Java, Python e JavaScript.
+📚 Tenho um ótimo conhecimento com Java, Html, Css e principalmente JavaScript.
 
 👩‍💻 Estou procurando minha primeira oportunidade no mercado de trabalho.
 
