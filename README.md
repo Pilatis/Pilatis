@@ -19,6 +19,8 @@
 <hr>
 <br>
 
+<h2 align="center">Minhas Tecnologias e Ferramentas</h2>
+
 <div style="display: inline_block" align="center">
   <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -41,13 +43,14 @@
 <br>
 
 <p align = "center">
-  <img  src = "https://github-readme-stats.vercel.app/api?username=Pilatis&show_icons=true&theme=radical&line_height=27">
+  <img  src = "https://github-readme-stats.vercel.app/api?username=Pilatis&show_icons=true&theme=radical&line_height=40">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Pilatis&hide=html,css,php,hlsl&theme=radical">
 </p>
 
-<p align = "center">
+<!--<p align = "center">
  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Pilatis&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
-</p> 
+</p> -->
+
 
 
 <h1 align="center">Entre em contato comigo<img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h1>
@@ -59,6 +62,7 @@
 </a>
 <a href="https://www.linkedin.com/in/lucas-pilati-15109b293/">
  <img src="https://img.shields.io/badge/-Pilatis-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-pilati-15109b293/"/>
+ 
 
 </p>
 
