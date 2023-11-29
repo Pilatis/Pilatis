@@ -1,5 +1,6 @@
  <h1>👋 Oi, me chamo Lucas Pilati 😀😀</h1>
 
+<br>
 
 📚 Tenho um ótimo conhecimento em JavaScript, React/JS, Java, HTML, CSS, SASS.
 
