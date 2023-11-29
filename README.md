@@ -1,10 +1,7 @@
  <h1>👋 Oi, me chamo Lucas Pilati 😀😀</h1>
 
 
-
-💻 Eu atualmente estou estudando React/js. 
-
-📚 Tenho um ótimo conhecimento com Java, Html, Css e principalmente JavaScript.
+📚 Tenho um ótimo conhecimento em JavaScript, React/JS, Java, HTML, CSS, SASS.
 
 👩‍💻 Estou procurando minha primeira oportunidade no mercado de trabalho.
 
