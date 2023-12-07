@@ -17,18 +17,23 @@
 <hr>
 <br>
 
+
+
 <h2 align="center">Minhas Tecnologias e Ferramentas</h2>
 
-<div style="display: inline_block" align="center">
+<div style="display: inline_block" align="center" >
  
-  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
- ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
- <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
- <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
- ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
- <img alt="Sass" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
- <img alt="Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" height="60" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="60" height="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="60" height="60"/>  
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="60" height="60" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"  width="60" height="60" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="50" height="60" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="60" height="60" />
+ 
+        
+
+
 
 
  
@@ -46,6 +51,8 @@
 <a href="https://www.linkedin.com/in/lucas-pilati-15109b293/">
  <img src="https://img.shields.io/badge/-Pilatis-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-pilati-15109b293/"/>
 
+
+
 <br>
 <br>
 
@@ -61,6 +68,9 @@
   <img  src = "https://github-readme-stats.vercel.app/api?username=Pilatis&show_icons=true&theme=radical&line_height=40">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Pilatis&hide=html,css,php,hlsl&theme=radical">
 </p>
+
+
+
 
 <!--<p align = "center">
  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Pilatis&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
