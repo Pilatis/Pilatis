@@ -23,7 +23,7 @@
 
 <div style="display: inline_block" align="center" >
  
- <img src="https://skillicons.dev/icons?i=js,html,css,react,nextjs,bootstrap,sass,vscode,nodejs,github,git"  height="70">
+ <img src="https://skillicons.dev/icons?i=js,react,nextjs,html,css,bootstrap,sass,nodejs,github,git,vscode"  height="70">
  
  
 
