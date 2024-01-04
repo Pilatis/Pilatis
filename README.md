@@ -4,9 +4,9 @@
 
 📚 Tenho um ótimo conhecimento em JavaScript, React/JS, Next/JS, HTML, CSS, SASS, Bootstrap.
 
-👩‍💻 Estou procurando minha primeira oportunidade no mercado da programação.
+<!--👩‍💻 Estou procurando minha primeira oportunidade no mercado da programação.-->
 
-🔎 Sou bastante proativo, lido bem com equipes, gosto de trabalhar em conjunto,  estou sempre aprendendo algo novo.
+👩‍💻 Sou bastante proativo, lido bem com equipes, gosto de trabalhar em conjunto,  estou sempre aprendendo algo novo.
 
 📚 Atualmente estou cursando Técnico de TI na QI Faculdade & Escola Técnica.
 
