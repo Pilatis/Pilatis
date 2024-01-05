@@ -8,7 +8,7 @@
 
 👩‍💻 Sou bastante proativo, lido bem com equipes, gosto de trabalhar em conjunto,  estou sempre aprendendo algo novo.
 
-📚 Atualmente estou cursando Técnico de TI na QI Faculdade & Escola Técnica.
+📚 Atualmente estou cursando Técnico de TI na QI Faculdade & Escola Técnica e faço cursos de tecnologias front na Udemy.
 
 💁‍♂️ Sou um bom comunicador, estou sempre dispostos a melhorar e me adaptar.
 
