@@ -24,7 +24,7 @@
 <div style="display: inline_block" align="center" >
  
  <img src="https://skillicons.dev/icons?i=js,typescript,react,nextjs,html,css,sass"  height="70">
- <img src="https://skillicons.dev/icons?i=bootstrap,nodejs,github,git,vscode,vite" height="70">
+ <img src="https://skillicons.dev/icons?i=bootstrap,nodejs,github,git,vscode,vite,postman" height="70">
  
  
 
