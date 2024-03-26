@@ -2,7 +2,7 @@
 
 <br>
 
-📚 Tenho um ótimo conhecimento em JavaScript, React/JS, Next/JS, HTML, CSS, SASS, Bootstrap.
+💻 Tenho um ótimo conhecimento em JavaScript, React/JS, Next/JS, HTML, CSS, SASS, Bootstrap.
 
 <!--👩‍💻 Estou procurando minha primeira oportunidade no mercado da programação.-->
 
@@ -14,6 +14,7 @@
 
 ✒️ No meu tempo livre eu gosto praticar atividades fisicas, aprender coisas novas e me desenvolver mentalmente.
 
+📚 E além disso eu sou apaixonado por literaturas de programação e tecnologia.
 <hr>
 <br>
 
