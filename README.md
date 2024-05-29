@@ -2,7 +2,7 @@
 
 <br>
 
-💻 Tenho um ótimo conhecimento em JavaScript, React/JS, Next/JS, HTML, CSS, SASS, Bootstrap.
+💻 Tenho um ótimo conhecimento em JavaScript, TypeScript, React/JS, Next/JS, NodeJS etc...
 
 <!--👩‍💻 Estou procurando minha primeira oportunidade no mercado da programação.-->
 
