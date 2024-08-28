@@ -24,7 +24,7 @@
 
 <div style="display: inline_block" align="center" >
  
- <img src="https://skillicons.dev/icons?i=js,typescript,react,nextjs,html,css,sass,bootstrap,vercel,babel"  height="65">
+ <img src="https://skillicons.dev/icons?i=js,typescript,react,nextjs,html,css,sass,bootstrap,docker,vercel,babel"  height="65">
  <img src="https://skillicons.dev/icons?i=npm,nodejs,github,gitlab,git,vscode,vite,firebase,postman" height="65">
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/axios/axios-plain-wordmark.svg" height="75" />
  <br>
