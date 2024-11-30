@@ -26,6 +26,7 @@
  
  <img src="https://skillicons.dev/icons?i=js,typescript,react,nextjs,html,css,sass,bootstrap,docker,vercel,babel"  height="65">
  <img src="https://skillicons.dev/icons?i=npm,nodejs,github,gitlab,git,vscode,vite,powershell,firebase,postman" height="65">
+ <img src="https://skillicons.dev/icons?i=sentry" height="65">
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/axios/axios-plain-wordmark.svg" height="75" />
  <br>
  <img src="https://github.com/Pilatis/Pilatis/assets/139661291/fb4f6f6a-429a-4999-9e06-f0e2db20b447" width="200" height="65" />
