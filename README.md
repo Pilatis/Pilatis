@@ -3,13 +3,15 @@
 
 <br>
 
-💻 Tenho mais de um ano de experiência em JavaScript, TypeScript, React/JS, Next/JS, NodeJS etc...
+💻 Tenho mais de 2 anos de experiência em desenvolvimento Front-end, com tecnologias como React/ReactNative, Next.JS, TypeScript, JavaScript, Node.JS...
 
 <!--👩‍💻 Estou procurando minha primeira oportunidade no mercado da programação.-->
 
 👩‍💻 Sou bastante proativo, lido bem com equipes, gosto de trabalhar em conjunto,  estou sempre aprendendo algo novo.
 
-📚 Atualmente estou cursando Técnico de TI na QI Faculdade & Escola Técnica e estou atualmente trabalhando como Front-End devoloper na Cognitiva Brasil.
+📚 Atualmente estou cursando Engenharia de Software na UNIASSELVI. Sou formado como Técnico de TI na QI Faculdade & Escola Técnica.
+
+💻 Atualmente estou trabalhando como Front-End devoloper na Cognitiva Brasil na área de desenvolvimento Tech Forge.
 
 💁‍♂️ Sou um bom comunicador, estou sempre dispostos a melhorar e me adaptar.
 
