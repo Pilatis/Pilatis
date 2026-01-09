@@ -3,7 +3,7 @@
 
 <br>
 
-💻 Tenho mais de 3 anos de experiência em desenvolvimento Front-end, com tecnologias como React/ReactNative, Next.JS, TypeScript, JavaScript, Node.JS...
+💻 Tenho mais de 2 anos de experiência em desenvolvimento Front-end, com tecnologias como React/ReactNative, Next.JS, TypeScript, JavaScript, Node.JS...
 
 <!--👩‍💻 Estou procurando minha primeira oportunidade no mercado da programação.-->
 
