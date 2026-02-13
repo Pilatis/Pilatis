@@ -1,23 +1,24 @@
 
- <h1>👋 Oi, me chamo Lucas Pilati 😀😀</h1>
+<h1>👋 Oi, me chamo Lucas Pilati 😀</h1>
 
 <br>
 
-💻 Tenho mais de 2 anos de experiência em desenvolvimento Front-end, com tecnologias como React/ReactNative, Next.JS, TypeScript, JavaScript, Node.JS...
+💻 Tenho cerca de 3 anos de experiência em desenvolvimento Full Stack, com foco em aplicações web modernas, escaláveis e orientadas a produto, utilizando React, Next.js, React Native, TypeScript, JavaScript (ES6+), Node.js, Java e Spring Boot.
 
-<!--👩‍💻 Estou procurando minha primeira oportunidade no mercado da programação.-->
+👩‍💻 Sou proativo, analítico e colaborativo, com facilidade para trabalhar em equipe, participar de decisões técnicas e contribuir com soluções bem estruturadas.
 
-👩‍💻 Sou bastante proativo, lido bem com equipes, gosto de trabalhar em conjunto,  estou sempre aprendendo algo novo.
+📚 Atualmente curso Bacharelado em Engenharia de Software na UNIASSELVI e sou formado como Técnico em TI pela QI Faculdade & Escola Técnica.
 
-📚 Atualmente estou cursando Engenharia de Software na UNIASSELVI. Sou formado como Técnico de TI na QI Faculdade & Escola Técnica.
+💻 Atuo como Full Stack Developer na Cognitiva Brasil, na área de desenvolvimento Tech Forge, participando da construção de interfaces performáticas, componentização avançada e integração com APIs REST.
 
-💻 Atualmente estou trabalhando como Front-End devoloper na Cognitiva Brasil na área de desenvolvimento Tech Forge.
+🛠️ Possuo experiência com Git, GitHub, GitLab, PostgreSQL, Docker, Gradle, consumo e desenvolvimento de APIs RESTful, aplicação de princípios SOLID, DRY e Clean Code.
 
-💁‍♂️ Sou um bom comunicador, estou sempre dispostos a melhorar e me adaptar.
+🚀 Busco constantemente evolução técnica, aprofundando conhecimentos em arquitetura de software, boas práticas de desenvolvimento e construção de produtos digitais robustos.
 
-✒️ No meu tempo livre eu gosto praticar atividades fisicas, aprender coisas novas e me desenvolver mentalmente.
+✒️ No meu tempo livre gosto de praticar atividades físicas, estudar tecnologia e desenvolver habilidades pessoais e cognitivas.
 
-📚 E além disso eu sou apaixonado por literaturas de programação e tecnologia.
+📖 Sou apaixonado por literatura técnica voltada a programação, engenharia de software e inovação tecnológica.
+
 <hr>
 <br>
 
